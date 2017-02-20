@@ -7,8 +7,8 @@ I am a technology enthusiast looking to understand the world a little better and
 #### Enthusiastic communicator
 
 
-I enjoy helping and motivating others, connecting with people and working in teams. I
-In my current work as a teacher and as a recent tour guide I had a great chance to put my communication skills to a test every time I gave tour or a lesson. It required not only preparation but sincere interest in the topic I shared knowledge about. I feel as confident in expressing myself and I am very good at listening. During my work as a volunteer in organisations like "Russian Education Centre", "Peace One Day", "London International Development Centre" I produced daily and weekly media briefings, maintained and improved the ‘social media’ presence, assisted with coordinating and hosting of the annual events, which all required me being well-organised and self-confident
+I enjoy helping and motivating others, connecting with people and working in teams.
+In my current work as a teacher and as a recent tour guide I had a great chance to put my communication skills to a test every time I gave a tour or a lesson. It required not only preparation but sincere interest in the topic I shared knowledge about. I feel as confident in expressing myself and I am very good at listening. During my work as in organisations I produced daily and weekly media briefings, maintained and improved the ‘social media’ presence, assisted with coordinating and hosting of the annual events, which all required me being well-organised and self-confident
 
 #### Fast enthusiastic learner
 
@@ -74,12 +74,13 @@ I organised my personal tours(in Russian) for children around the Science Museum
 *Product and Community Management Intern*  
 
 
-
 **London International Development Centre (LIDC), London** (Oct. 2014 – Dec. 2014)
 *Communications Intern and Database Management Assistant*
 
 **Peace One Day, London** (Nov. 2013 – Jan. 2014)
 *Global Education Intern*
+
+##
 
 ## Interests
 
