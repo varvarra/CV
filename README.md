@@ -1,4 +1,6 @@
-## Varvara Shinkarenko
+## Barbara Shinkarenko
+
+[Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Portfolio](#portfolio)
 
 I am a technology enthusiast looking to understand the world a little better and help others understand it better still. To this end I have studied Educational Planning at a Masters Level all the while keeping my finger on the pulse of the world of EdTech. I would like to streamline and solidify some ideas about fusing the social and the technological aspects of education, inspiration, and the spread of knowledge; I would love to work in this field, perhaps even developing some ideas of my own. The environment that interests me is challenging, saturated with the beat of endless enthusiasm of like-minded happy life-loving people.
 
@@ -6,49 +8,56 @@ I am a technology enthusiast looking to understand the world a little better and
 
 #### Enthusiastic communicator
 
-
 I enjoy helping and motivating others, connecting with people and working in teams.
-In my current work as a teacher and as a recent tour guide I had a great chance to put my communication skills to a test every time I gave a tour or a lesson. It required not only preparation but sincere interest in the topic I shared knowledge about. I feel as confident in expressing myself and I am very good at listening. During my work as in organisations I produced daily and weekly media briefings, maintained and improved the ‘social media’ presence, assisted with coordinating and hosting of the annual events, which all required me being well-organised and self-confident
+In my current work as a teacher and as a recent tour guide I had a great chance to put my communication skills to a test every time I gave a tour or a lesson. It required not only preparation but sincere interest in the topic I shared knowledge about. I feel confident expressing myself and I am good listener. During my short experiences at different workplaces I was involved in different processes from producing daily and weekly media briefings, maintaining ‘social media’ presence to assisting coordinating and hosting of the annual events
 
-#### Fast enthusiastic learner
+#### Curious learner
 
-During my work in the educational robotics startup Indybo I experienced an early-stage business environment, requiring a lot of flexibility and an entrepreneurial approach across the range. I enjoyed being part of the tech movement. I organised the User/Market Testing of the product with 5 to 8 year old children – with the key concepts communicated with schools and parents for feedback purposes.
-I also prepared a Marketing Analysis for the product in the field I had barely any previous knowledge in. I learned a lot about the field of recreational robotics and could produce further strategy recommendations for the company, requiring me to focus on the key influencing factors/details whilst researching information and originating plans.
+During my work in the educational robotics startup, Indybo, I experienced an early-stage business environment, requiring a lot of **flexibility** and an entrepreneurial approach across the range.
+I also prepared a Marketing Analysis for the product in the field I had barely any previous knowledge in. I learned a lot about the field of recreational robotics and took it as a an exciting opportunity to produce a small report for strategy recommendations for the company, requiring me to focus on the key influencing factors/details whilst researching information and originating plans.
 
 
 #### Self-starter
 
-I organised my personal tours(in Russian) for children around the Science Museum "Information Age" and "Space" galleries.
-
+Previous year I decided to organize my personal tours for children around "Information Age" and "Space" galleries of the Science Museum. It required a lot of self-organization and confidence that I can deliver a difficult material to a group 10-year olds. I was taking a risk, but it was worth every minute of it.
+I really enjoyed preparing information, learning a lot in the process, and, most of all, sharing my knowledge with others
 
 
 #### Other Skills
 
 - Foreign languages: Russian (Native), French (Post-Intermediate),  Spanish and Portuguese (Basic)
 
+## Portfolio
+
+|Name|Description|Technology|Testing|
+|---	|---	|---	|---	|
+|   	|   	|   	|   	|
+|   	|   	|   	|   	|
+
 ## Education
 
 #### Makers Academy (January - March 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+A 16-week software development bootcamp, focusing on:
+
+ - Object-oriented programming
+ - Agile methodologies
+ - Test-Driven Development
+ - Software Craftsmanship
+ - Ruby, Rails, Javascript, Sinatra
+ - Rspec, Jasmine,
 
 
 #### Institute of Education, UCL (Sept. 2012 - Sept. 2013)
 
 - MA in Educational Planning, Economics, and International Development
 - 2.1
-- Fieldwork Organisation and Qualitative Data Collection for my ten-thousand word dissertation on the importance of IT (mainly Internet resources) in the learning process in secondary schools. I became fascinated with a subject of Educational Technology during this year and did a lot of research in this field, which finally has put me on a path of learning programming.
+- Fieldwork Organisation and Qualitative Data Collection for my ten-thousand word dissertation on the importance and the use of IT (access to the Web Resources) in primary/secondary schools.
+- I have grown very interested about an Educational Technology subject during that year, which further led me to deepen my own research in the field. That, in turn, has eventually put me on a path of software development.
 
 
 #### Manchester Business School, University of Manchester (Sept. 2008 – June 2012)                                             	       	
-
 - BA in International Business, Finance, and Economics  
-- 2.2
 - Presentations & extracurricular research focused on SMEs, Information Management & Global Business Innovations
 
 
@@ -58,17 +67,27 @@ I organised my personal tours(in Russian) for children around the Science Museum
 - I had a great chance to experience a very different learning and cultural environment, and to travel a lot in the region with people from all over the world.
 - Leading a group project related to Creative Marketing Strategies for Societal Problems
 
+#### University of Manchester (Sept. 2007 – June 2008)
+
+- 1st year of IT Management for Business course
+- Modules studied: Intro to Computer Science, Human Computer Interaction,   
+
+#### King's School Oxford, UK (Sep 2007 - Jun 2008)
+- Overall result - 75%
+- Subjects: Mathematics, Data and Statistics, Physics, Human Geography
+
+
 
 ## Experience
 
 **Russian Education Centre, London** (Sep 2013 to Present)    
-*Primary School Science Teacher*  
+*Primary Science Teacher*  
 
 **Cherry Orchard School, London** (June 2016 - Oct 2016)
-*PA of the director of the Saturday school*
+*PA to the director of the Saturday school*
 
 **Science Museum, London** ( Sep 2015 - June 2016)
-*Guide for children and private tour organiser; Visitor Engagement Volunteer*  
+*Private tour organiser around Space and IT related exhibitions; Visitor Engagement Volunteer*  
 
 **Indybo, Educational Robotics Start Up, London** (March – June 2015)   
 *Product and Community Management Intern*  
@@ -80,13 +99,12 @@ I organised my personal tours(in Russian) for children around the Science Museum
 **Peace One Day, London** (Nov. 2013 – Jan. 2014)
 *Global Education Intern*
 
-##
 
 ## Interests
 
 - EdTech
  My main interest lies within area of children’s education. I try to follow the latest research and trends happening in the area of educational technology and if opportunity arises I try to get involved.
- ? ? Recently I have been volunteering as a team leader in an international summer school for teenagers in Barcelona this August, and have been assisting in the events organised by the Institute of Imagination (London).
+  I have been recently volunteering as a team leader in an international summer school for teenagers in Barcelona this August, and have been assisting in the events organised by the Institute of Imagination (London).
 
 - I am a dedicated ‘lifelong learner’ with a broad range of special interests in education, science, and the big history of our world. I nurture my interests by reading popular science books and attending various events in London.
 
