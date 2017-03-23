@@ -2,7 +2,7 @@
 
 [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Portfolio](#portfolio)
 
-I am a technology enthusiast looking to understand the world a little better and help others understand it better still. To this end I have studied Educational Planning at a Masters Level all the while keeping my finger on the pulse of the world of EdTech. I would like to streamline and solidify some ideas about fusing the social and the technological aspects of education, inspiration, and the spread of knowledge; I would love to work in this field, perhaps even developing some ideas of my own. The environment that interests me is challenging, saturated with the beat of endless enthusiasm of like-minded happy life-loving people.
+I am a technology enthusiast looking to understand the world a little better and help others understand it better still. To this end I have studied Educational Planning at a Masters Level all the while keeping my finger on the pulse of the world of EdTech. I would like to streamline and solidify some ideas about fusing the social and the technological aspects of education, inspiration, and the spread of knowledge; The environment that interests me is challenging, saturated with the beat of endless enthusiasm of like-minded life-loving people that enjoy best OOD practices, TDD and pair programming.
 
 ## Skills
 
@@ -19,8 +19,8 @@ I also prepared a Marketing Analysis for the product in the field I had barely a
 
 #### Self-starter
 
-Previous year I decided to organize my personal tours for children around "Information Age" and "Space" galleries of the Science Museum. It required a lot of self-organization and confidence that I can deliver a difficult material to a group 10-year olds. I was taking a risk, but it was worth every minute of it.
-I really enjoyed preparing information, learning a lot in the process, and, most of all, sharing my knowledge with others
+Previous year I decided to organise my personal tours for children around "Information Age" and "Space" galleries of the Science Museum. Being well-organised and confident that I can deliver a difficult material to a group 10-year olds was crucial for my success. I received lots of positive feedback. I was taking a risk, but it was worth every minute of it.
+I really enjoyed preparing information, learning a lot in the process, and, most of all, sharing my knowledge with others.
 
 
 #### Other Skills
@@ -29,10 +29,10 @@ I really enjoyed preparing information, learning a lot in the process, and, most
 
 ## Portfolio
 
-|Name|Description|Technology|Testing|
-|---	|---	|---	|---	|
-|   	|   	|   	|   	|
-|   	|   	|   	|   	|
+|Name                                      |Description|Technology|Testing|
+|---	                                    |---	|---	|---	|
+|https://github.com/rkclark/notes-app-challenge|   	|   	|   	|
+|   	                    |   	|   	|   	|
 
 ## Education
 
@@ -41,41 +41,38 @@ I really enjoyed preparing information, learning a lot in the process, and, most
 A 16-week software development bootcamp, focusing on:
 
  - Object-oriented programming
- - Agile methodologies
+ - Agile methodologies and XP values
+ - Pair programming
  - Test-Driven Development
  - Software Craftsmanship
- - Ruby, Rails, Javascript, Sinatra
- - Rspec, Jasmine,
+ - Full stack web development
 
 
 #### Institute of Education, UCL (Sept. 2012 - Sept. 2013)
 
 - MA in Educational Planning, Economics, and International Development
 - 2.1
-- Fieldwork Organisation and Qualitative Data Collection for my ten-thousand word dissertation on the importance and the use of IT (access to the Web Resources) in primary/secondary schools.
-- I have grown very interested about an Educational Technology subject during that year, which further led me to deepen my own research in the field. That, in turn, has eventually put me on a path of software development.
+- Fieldwork Organisation and Qualitative Data Collection for my 10,000 word dissertation on the importance and the use of IT (access to the Web Resources) in primary/secondary schools.
+- Developed an interest about Educational Technology during that year, which further led me to deepen my own research in the field. That, in turn, has eventually put me on a path of software development.
 
 
 #### Manchester Business School, University of Manchester (Sept. 2008 – June 2012)                                             	       	
 - BA in International Business, Finance, and Economics  
-- Presentations & extracurricular research focused on SMEs, Information Management & Global Business Innovations
-
 
 #### Nanyang Technological University, Singapore	(Jan. 2011 – May 2011)			 	        
 
 - Semester Exchange Program
 - I had a great chance to experience a very different learning and cultural environment, and to travel a lot in the region with people from all over the world.
-- Leading a group project related to Creative Marketing Strategies for Societal Problems
+- Led a group project related to Creative Marketing Strategies for Societal Problems
 
 #### University of Manchester (Sept. 2007 – June 2008)
 
 - 1st year of IT Management for Business course
-- Modules studied: Intro to Computer Science, Human Computer Interaction,   
+- Modules studied: Intro to Computer Science, Human Computer Interaction, Database Management, Courses in Management and Marketing
 
 #### King's School Oxford, UK (Sep 2007 - Jun 2008)
 - Overall result - 75%
 - Subjects: Mathematics, Data and Statistics, Physics, Human Geography
-
 
 
 ## Experience
@@ -102,23 +99,15 @@ A 16-week software development bootcamp, focusing on:
 
 ## Interests
 
-- EdTech
- My main interest lies within area of children’s education. I try to follow the latest research and trends happening in the area of educational technology and if opportunity arises I try to get involved.
-  I have been recently volunteering as a team leader in an international summer school for teenagers in Barcelona this August, and have been assisting in the events organised by the Institute of Imagination (London).
+- My main interest lies within area of children’s education. I try to follow the latest research and trends happening in the area of educational technology.
+I have been recently volunteering as a team leader in an international summer school for teenagers in Barcelona this August, and have been assisting in the events organised by the Institute of Imagination (London).
 
-- I am a dedicated ‘lifelong learner’ with a broad range of special interests in education, science, and the big history of our world. I nurture my interests by reading popular science books and attending various events in London.
+- I am a dedicated **‘lifelong learner’** with a broad range of special interests in education, science, and the big history of our world. I nurture my interests by reading popular science books and attending various educational events in London.
 
-- Lifelong nature lover
+- Lifelong Nature Lover
 
 -	Love spending my time playing piano, stargazing, reading books, doing yoga, dancing, and taking long weekend walks in the London parks.
 
-Personal presentation
-
-Enthusiasm and initiative
-
-Communication and literacy
-
-Time management and organisation, numeracy lidc
 
 Demonstrated integrity
 
