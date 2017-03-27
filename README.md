@@ -38,9 +38,9 @@ I've enjoyed researching, improving my knowledge base, and most of all, sharing 
 
 |Name |Description|Technology|
 | ---	| ---	| ---	|
-|[Developer's Dictionary](#https://github.com/KatHicks/developers-dictionary)|A fun and engaging definitions resource for software developers|Node, Express, MongoDB, JavaScript, jQuery, SVG, Mocha, Chai, Zombie, CSS, Bootstrap, Heroku|
-|[Fix City](#https://github.com/KatHicks/fix-city)|A web application that enables members of the public to report civil issues to their local Council|Ruby, Rails, PostgreSQL, Google Maps Javascript API, RSpec, Capybara, Sass & Bootstrap|
-|[Notes App](#https://github.com/rkclark/notes-app-challenge)|A Single Page App built in pure JS with no testing libraries allowed|JavaScript, Node|   	
+|[Developer's Dictionary](https://github.com/KatHicks/developers-dictionary)|A fun and engaging definitions resource for software developers|Node, Express, MongoDB, JavaScript, jQuery, SVG, Mocha, Chai, Zombie, CSS, Bootstrap, Heroku|
+|[Fix City](https://github.com/KatHicks/fix-city)|A web application that enables members of the public to report civil issues to their local Council|Ruby, Rails, PostgreSQL, Google Maps Javascript API, RSpec, Capybara, Sass & Bootstrap|
+|[Notes App](https://github.com/rkclark/notes-app-challenge)|A Single Page App built in pure JS with no testing libraries allowed|JavaScript, Node|   	
 
 ## Education
 
