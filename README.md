@@ -55,8 +55,7 @@ I've enjoyed researching, improving my knowledge base, and most of all, sharing 
 #### Institute of Education, UCL (Sept. 2012 - Sept. 2013)
 
 - MA in Educational Planning, Economics, and International Development
-- 2.1
-- Fieldwork Organisation and Qualitative Data Collection for my 10,000 word dissertation on the importance and the use of IT (access to the Web Resources) in primary/secondary schools.
+- Fieldwork Organisation and Qualitative Data Collection for the final dissertation on the importance and the use of IT (access to the Web Resources) in primary/secondary schools.
 - Developed an interest about Educational Technology during that year, which further led me to deepen my own research in the field. That, in turn, has eventually put me on a path of software development.
 
 
@@ -69,15 +68,13 @@ I've enjoyed researching, improving my knowledge base, and most of all, sharing 
 - Had a great chance to experience a very different learning and cultural environment, and to travel a lot in the region with people from all over the world.
 - Led a group project related to Creative Marketing Strategies for Societal Problems
 
-#### University of Manchester (Sept. 2007 – June 2008)
+#### University of Manchester (Sept. 2008 – June 2009)
 
-- 1st year of IT Management for Business course
-- Modules studied: Intro to Computer Science, Human Computer Interaction, Database Management
+- IT Management for Business
+- Intro to Computer Science, Human Computer Interaction, Database Management
 
 #### King's School Oxford, UK (Sep 2007 - Jun 2008)
-- Undertook a foundation diploma before entering a Bachelors degree
-- Overall result - 75%
-- Subjects: Mathematics, Data and Statistics, Physics, Geography
+- Mathematics, Data and Statistics, Physics, Geography, 75% average
 
 
 ## Experience
