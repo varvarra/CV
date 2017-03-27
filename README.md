@@ -2,26 +2,33 @@
 
 [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Portfolio](#portfolio)
 
-I am a technology enthusiast looking to understand the world a little better and help others understand it better still. To this end I have studied Educational Planning at a Masters Level all the while keeping my finger on the pulse of the world of EdTech. I would like to streamline and solidify some ideas about fusing the social and the technological aspects of education, inspiration, and the spread of knowledge; The environment that interests me is challenging, saturated with the beat of endless enthusiasm of like-minded life-loving people that enjoy best OOD practices, TDD and pair programming.
+I'm a **full-stack junior software developer** with experience in Ruby, JavaScript, Node.js, SQL, NoSQL, MVC, TDD and OOD.
+
+I can offer integrity, team devotion, a desire to constantly learn and improve from day 1, with a positive, flexible can-do attitude.
+
+I'm excited to work in a challenging and open environment on engaging projects with like-minded life-loving people that work with endless enthusiasm.
 
 ## Skills
 
-#### Enthusiastic communicator
+#### Enthusiastic communicator and collaborator
 
-I enjoy helping and motivating others, connecting with people and working in teams.
-In my current work as a teacher and as a recent tour guide I had a great chance to put my communication skills to a test every time I gave a tour or a lesson. It required not only preparation but sincere interest in the topic I shared knowledge about. I feel confident expressing myself and I am good listener. During my short experiences at different workplaces I was involved in different processes from producing daily and weekly media briefings, maintaining ‘social media’ presence to assisting coordinating and hosting of the annual events
+- I enjoy helping and motivating others, connecting with people and working in teams. I put these skills to the test on a regular basis in my work as a teacher and a museum experience creator. I feel **confident** expressing myself and I am a **good listener**.
+- I have been involved in different communication roles from producing daily media briefings and maintaining social media presence to assisting in coordinating and hosting major events.
 
 #### Curious learner
 
-During my work in the educational robotics startup, Indybo, I experienced an early-stage business environment, requiring a lot of **flexibility** and an entrepreneurial approach across the range.
-I also prepared a Marketing Analysis for the product in the field I had barely any previous knowledge in. I learned a lot about the field of recreational robotics and took it as a an exciting opportunity to produce a small report for strategy recommendations for the company, requiring me to focus on the key influencing factors/details whilst researching information and originating plans.
+- I worked on Marketing Analysis for an innovative product in the field of educational robotics. I had to pick up a lot of skills to tackle various issues, taking my own **initiative** to produce a report with growth strategy recommendations for the company.
+- Was praised for my **versatile approach and wide-ranging knowledge** helping the tech team to better understand what to concentrate on.
 
+#### Self-starter with a can-do attitude
 
-#### Self-starter
+- Museum experience creator for children, centered around the "Information Age" and "Space" themes of the Science Museum. Received a lot of **positive feedback** and further event requests. I was **taking a risk**, which was worth every minute of it as it was done with conviction.
+I've enjoyed researching, improving my knowledge base, and most of all, sharing that knowledge with others.
 
-Previous year I decided to organise my personal tours for children around "Information Age" and "Space" galleries of the Science Museum. Being well-organised and confident that I can deliver a difficult material to a group 10-year olds was crucial for my success. I received lots of positive feedback. I was taking a risk, but it was worth every minute of it.
-I really enjoyed preparing information, learning a lot in the process, and, most of all, sharing my knowledge with others.
+#### Adaptable to dynamic and fast-paced environments
 
+- Quickly and productively adjusted my skill-set to succeed at Makers Academy.
+- Experienced an early-stage startup environment working at Indybo, requiring a lot of **flexibility** and an entrepreneurial approach.
 
 #### Other Skills
 
@@ -29,24 +36,21 @@ I really enjoyed preparing information, learning a lot in the process, and, most
 
 ## Portfolio
 
-|Name                                      |Description|Technology|Testing|
-|---	                                    |---	|---	|---	|
-|https://github.com/rkclark/notes-app-challenge|   	|   	|   	|
-|   	                    |   	|   	|   	|
+|Name |Description|Technology|
+|---	|---	|---	|---	|  	
+|[Developer's Dictionary](#https://github.com/KatHicks/developers-dictionary)|A fun and engaging definitions resource for software developers|Node, Express, MongoDB, JavaScript, jQuery, SVG, Mocha, Chai, Zombie, CSS, Bootstrap, Heroku|
+|[Fix City](#https://github.com/KatHicks/fix-city)|A web application that enables members of the public to report civil issues to their local Council|Ruby, Rails, PostgreSQL, Google Maps Javascript API, RSpec, Capybara, Sass & Bootstrap|
+|[Notes App](#https://github.com/rkclark/notes-app-challenge)|A Single Page App built in pure JS with no testing libraries allowed|JavaScript, Node|   	
 
 ## Education
 
-#### Makers Academy (January - March 2017)
+#### Makers Academy (January - April 2017)
 
-A 16-week software development bootcamp, focusing on:
-
- - Object-oriented programming
- - Agile methodologies and XP values
- - Pair programming
- - Test-Driven Development
- - Software Craftsmanship
+ - OOP, Agile methodologies and XP values, Pair Programming, TDD
+ - Various debugging techniques
+ - Software craftsmanship
  - Full stack web development
-
+ - Developed skills on how to work independently and under pressure
 
 #### Institute of Education, UCL (Sept. 2012 - Sept. 2013)
 
@@ -62,33 +66,33 @@ A 16-week software development bootcamp, focusing on:
 #### Nanyang Technological University, Singapore	(Jan. 2011 – May 2011)			 	        
 
 - Semester Exchange Program
-- I had a great chance to experience a very different learning and cultural environment, and to travel a lot in the region with people from all over the world.
+- Had a great chance to experience a very different learning and cultural environment, and to travel a lot in the region with people from all over the world.
 - Led a group project related to Creative Marketing Strategies for Societal Problems
 
 #### University of Manchester (Sept. 2007 – June 2008)
 
 - 1st year of IT Management for Business course
-- Modules studied: Intro to Computer Science, Human Computer Interaction, Database Management, Courses in Management and Marketing
+- Modules studied: Intro to Computer Science, Human Computer Interaction, Database Management
 
 #### King's School Oxford, UK (Sep 2007 - Jun 2008)
+- Undertook a foundation diploma before entering a Bachelors degree
 - Overall result - 75%
-- Subjects: Mathematics, Data and Statistics, Physics, Human Geography
+- Subjects: Mathematics, Data and Statistics, Physics, Geography
 
 
 ## Experience
 
 **Russian Education Centre, London** (Sep 2013 to Present)    
-*Primary Science Teacher*  
+*Primary Science Teacher(Astronomy, Anatomy, Mathematics)*  
 
 **Cherry Orchard School, London** (June 2016 - Oct 2016)
-*PA to the director of the Saturday school*
+*Digital Marketing Assistant*
 
 **Science Museum, London** ( Sep 2015 - June 2016)
-*Private tour organiser around Space and IT related exhibitions; Visitor Engagement Volunteer*  
+*Museum Experience Creator*
 
 **Indybo, Educational Robotics Start Up, London** (March – June 2015)   
-*Product and Community Management Intern*  
-
+*Product and Community Management Intern*
 
 **London International Development Centre (LIDC), London** (Oct. 2014 – Dec. 2014)
 *Communications Intern and Database Management Assistant*
@@ -96,19 +100,12 @@ A 16-week software development bootcamp, focusing on:
 **Peace One Day, London** (Nov. 2013 – Jan. 2014)
 *Global Education Intern*
 
-
 ## Interests
 
-- My main interest lies within area of children’s education. I try to follow the latest research and trends happening in the area of educational technology.
-I have been recently volunteering as a team leader in an international summer school for teenagers in Barcelona this August, and have been assisting in the events organised by the Institute of Imagination (London).
+- My main interest lies in education. I try to follow the latest research and trends and keep my pulse on the area of EdTech.
 
-- I am a dedicated **‘lifelong learner’** with a broad range of special interests in education, science, and the big history of our world. I nurture my interests by reading popular science books and attending various educational events in London.
+- I have been recently volunteering as a team leader in an international summer school for teenagers in Barcelona, and have been assisting in the events organised by the Institute of Imagination.
 
-- Lifelong Nature Lover
+- I am a dedicated **lifelong learner** with a broad range of interests: in education, science, and the history of our world. I try to nurture these by reading popular science books and journals and attending various educational events in London.
 
--	Love spending my time playing piano, stargazing, reading books, doing yoga, dancing, and taking long weekend walks in the London parks.
-
-
-Demonstrated integrity
-
-Meditation calmness
+-	I love spending my time playing piano, stargazing, reading books, doing yoga, meditating and being mindful, dancing, and taking long weekend walks in the London parks.
