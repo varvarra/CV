@@ -4,16 +4,24 @@
 
 I'm a **full-stack junior software developer** with experience in Ruby, JavaScript, Node.js, SQL, NoSQL, MVC, TDD and OOD.
 
-I can offer integrity, team devotion, a desire to constantly learn and improve from day 1, and, a positive, flexible can-do attitude.
+I can offer integrity, team devotion, a desire to constantly learn and improve, and a positive, flexible can-do attitude from day 1.
 
 I'm excited to work in a challenging and open environment on engaging projects with like-minded life-loving people.
+
+## Portfolio
+
+|Name |Description|Technology|
+| ---	| ---	| ---	|
+|[Developer's Dictionary](https://github.com/KatHicks/developers-dictionary)|A fun and engaging definitions resource for software developers|Node, Express, MongoDB, JavaScript, jQuery, SVG, Mocha, Chai, Zombie, CSS, Bootstrap, Heroku|
+|[Fix City](https://github.com/KatHicks/fix-city)|A web application that enables members of the public to report civil issues to their local Council|Ruby, Rails, PostgreSQL, Google Maps Javascript API, RSpec, Capybara, Sass & Bootstrap|
+|[Notes App](https://github.com/rkclark/notes-app-challenge)|A Single Page App built in pure JS with no testing libraries allowed|JavaScript, Node|  
 
 ## Skills
 
 #### Enthusiastic communicator and collaborator
 
 - I enjoy helping and motivating others, connecting with people and working in teams. I put these skills to the test on a regular basis in my work as a teacher and a museum experience creator. I feel **confident** expressing myself and I am a **good listener**.
-- I have been involved in different communication roles from producing daily media briefings and maintaining social media presence to assisting in coordinating and hosting major events.
+- Was involved in different communication roles from producing daily media briefings and maintaining social media presence to assisting in coordinating and hosting major events.
 
 #### Curious learner
 
@@ -32,15 +40,7 @@ I'm excited to work in a challenging and open environment on engaging projects w
 
 #### Other Skills
 
-- Foreign languages: Russian (Native), French (Post-Intermediate),  Spanish and Portuguese (Basic)
-
-## Portfolio
-
-|Name |Description|Technology|
-| ---	| ---	| ---	|
-|[Developer's Dictionary](https://github.com/KatHicks/developers-dictionary)|A fun and engaging definitions resource for software developers|Node, Express, MongoDB, JavaScript, jQuery, SVG, Mocha, Chai, Zombie, CSS, Bootstrap, Heroku|
-|[Fix City](https://github.com/KatHicks/fix-city)|A web application that enables members of the public to report civil issues to their local Council|Ruby, Rails, PostgreSQL, Google Maps Javascript API, RSpec, Capybara, Sass & Bootstrap|
-|[Notes App](https://github.com/rkclark/notes-app-challenge)|A Single Page App built in pure JS with no testing libraries allowed|JavaScript, Node|   	
+- Foreign languages: Russian (Native), French (Post-Intermediate),  Spanish and Portuguese (Basic) 	
 
 ## Education
 
@@ -60,14 +60,11 @@ I'm excited to work in a challenging and open environment on engaging projects w
 #### Manchester Business School, University of Manchester (Sept. 2008 – June 2012)                                             	       	
 - BA in International Business, Finance, and Economics  
 
-#### Nanyang Technological University, Singapore	(Jan. 2011 – May 2011)			 	        
-
-- Semester Exchange Program
-- Had a great chance to experience a very different learning and cultural environment, and to travel a lot in the region with people from all over the world.
+#### Nanyang Technological University, Singapore	(Jan. 2011 – May 2011) *Semester Exchange Program*			 	        
+- Experienced a very different learning and cultural environment, and travelled a lot in the region with people from all over the world.
 - Led a group project related to Creative Marketing Strategies for Societal Problems
 
 #### University of Manchester (Sept. 2008 – June 2009)
-
 - 1st year of IT Management for Business BSc
 - Intro to Computer Science, Human Computer Interaction, Database Management
 
@@ -76,17 +73,15 @@ I'm excited to work in a challenging and open environment on engaging projects w
 
 ## Experience
 
-**Russian Education Centre, London** (Sep 2013 to Present)    
-*Primary Science Teacher(Astronomy, Anatomy, Mathematics)*  
+**Russian Education Centre, London** (Sep 2013 to Present) *Primary Science Teacher(Astronomy, Anatomy, Mathematics)*  
 
 **Cherry Orchard School, London** (June 2016 - Oct 2016)
 *Digital Marketing Assistant*
 
-**Science Museum, London** ( Sep 2015 - June 2016)
+**Science Museum, London** (Sep 2015 - June 2016)
 *Museum Experience Creator*
 
-**Indybo, Educational Robotics Start Up, London** (March – June 2015)   
-*Product and Community Management Intern*
+**Indybo, Educational Robotics Start Up, London** (March – June 2015) *Product and Community Management Intern*
 
 **London International Development Centre (LIDC), London** (Oct. 2014 – Dec. 2014)
 *Communications Intern and Database Management Assistant*
@@ -96,10 +91,10 @@ I'm excited to work in a challenging and open environment on engaging projects w
 
 ## Interests
 
-- My main interest lies in education. I try to follow the latest research and trends and keep my pulse on the area of EdTech.
+- My main interest lies in education. I try to follow the latest research and trends and keep my pulse on the area of **EdTech**.
 
-- I have been recently volunteering as a team leader in an international summer school for teenagers in Barcelona, and have been assisting in the events organised by the Institute of Imagination.
+- Volunteering as a team leader in an international summer school for teenagers in Barcelona, and in the events organised by the Institute of Imagination.
 
-- I am a dedicated **lifelong learner** with a broad range of interests: in education, science, and the history of our world. I try to nurture these by reading popular science books and journals and attending various educational events in London.
+- Dedicated **lifelong learner** with a broad range of interests: in education, science, and the history of our world. I try to nurture these by reading popular science books and journals and attending various educational events in London.
 
 -	I love spending my time playing piano, stargazing, reading books, doing yoga, meditating and being mindful, dancing, and taking long weekend walks in the London parks.
