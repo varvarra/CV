@@ -4,7 +4,7 @@
 
 I'm a **full-stack junior software developer** with experience in Ruby, JavaScript, Node.js, SQL, NoSQL, MVC, TDD and OOD.
 
-I can offer integrity, team devotion, a desire to constantly learn and improve, and a positive, flexible can-do attitude from day 1.
+I can offer *integrity, team devotion, a desire to constantly learn and improve, and a positive, flexible can-do attitude* from day one.
 
 I'm excited to work in a challenging and open environment on engaging projects with like-minded life-loving people.
 
@@ -31,7 +31,7 @@ I'm excited to work in a challenging and open environment on engaging projects w
 #### Self-starter with a can-do attitude
 
 - Museum experience creator for children, centered around the "Information Age" and "Space" themes of the Science Museum. Received a lot of **positive feedback** and further event requests. I was **taking a risk**, which was worth every minute of it as it was done with conviction.
-- I've enjoyed researching, improving my knowledge base, and most of all, sharing that knowledge with others.
+- Learning a completely **new technology stack like Node, MongoDB, Express** in just a week for my final project was challenging but very exciting.
 
 #### Adaptable to dynamic and fast-paced environments
 
@@ -49,7 +49,6 @@ I'm excited to work in a challenging and open environment on engaging projects w
  - OOP, Agile methodologies and XP values, Pair Programming, TDD
  - Software craftsmanship
  - Full stack web development
- - Developed skills on how to work independently and under pressure
 
 #### Institute of Education, UCL (Sept. 2012 - Sept. 2013)
 
@@ -73,7 +72,7 @@ I'm excited to work in a challenging and open environment on engaging projects w
 
 ## Experience
 
-**Russian Education Centre, London** (Sep 2013 to Present) *Primary Science Teacher(Astronomy, Anatomy, Mathematics)*  
+**Russian Education Centre, London** (Sep 2013 to Present) *Primary Science Teacher(Astronomy, Anatomy)*  
 
 **Cherry Orchard School, London** (June 2016 - Oct 2016)
 *Digital Marketing Assistant*
