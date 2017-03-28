@@ -2,11 +2,11 @@
 
 [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Portfolio](#portfolio)
 
-I'm a **full-stack junior software developer** with experience in Ruby, JavaScript, Node.js, SQL, NoSQL, MVC, TDD and OOD.
+I'm a **full-stack junior software developer** with experience in Ruby, JavaScript, Rails, Sinatra, Node.js, SQL, NoSQL, MVC, TDD and OOD.
 
 I can offer *integrity, team devotion, a desire to constantly learn and improve, and a positive, flexible can-do attitude* from day one.
 
-I'm excited to work in a challenging and open environment on engaging projects with like-minded life-loving people.
+I'm excited to work in a challenging and open environment on engaging projects with like-minded life-loving people :smiley:
 
 ## Portfolio
 
