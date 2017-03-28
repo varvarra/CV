@@ -4,9 +4,9 @@
 
 I'm a **full-stack junior software developer** with experience in Ruby, JavaScript, Node.js, SQL, NoSQL, MVC, TDD and OOD.
 
-I can offer integrity, team devotion, a desire to constantly learn and improve from day 1, with a positive, flexible can-do attitude.
+I can offer integrity, team devotion, a desire to constantly learn and improve from day 1, and, a positive, flexible can-do attitude.
 
-I'm excited to work in a challenging and open environment on engaging projects with like-minded life-loving people that work with endless enthusiasm.
+I'm excited to work in a challenging and open environment on engaging projects with like-minded life-loving people.
 
 ## Skills
 
@@ -23,7 +23,7 @@ I'm excited to work in a challenging and open environment on engaging projects w
 #### Self-starter with a can-do attitude
 
 - Museum experience creator for children, centered around the "Information Age" and "Space" themes of the Science Museum. Received a lot of **positive feedback** and further event requests. I was **taking a risk**, which was worth every minute of it as it was done with conviction.
-I've enjoyed researching, improving my knowledge base, and most of all, sharing that knowledge with others.
+- I've enjoyed researching, improving my knowledge base, and most of all, sharing that knowledge with others.
 
 #### Adaptable to dynamic and fast-paced environments
 
@@ -47,7 +47,6 @@ I've enjoyed researching, improving my knowledge base, and most of all, sharing 
 #### Makers Academy (January - April 2017)
 
  - OOP, Agile methodologies and XP values, Pair Programming, TDD
- - Various debugging techniques
  - Software craftsmanship
  - Full stack web development
  - Developed skills on how to work independently and under pressure
@@ -56,8 +55,7 @@ I've enjoyed researching, improving my knowledge base, and most of all, sharing 
 
 - MA in Educational Planning, Economics, and International Development
 - Fieldwork Organisation and Qualitative Data Collection for the final dissertation on the importance and the use of IT (access to the Web Resources) in primary/secondary schools.
-- Developed an interest about Educational Technology during that year, which further led me to deepen my own research in the field. That, in turn, has eventually put me on a path of software development.
-
+- Developed an interest about Educational Technology during that year.
 
 #### Manchester Business School, University of Manchester (Sept. 2008 – June 2012)                                             	       	
 - BA in International Business, Finance, and Economics  
@@ -70,12 +68,11 @@ I've enjoyed researching, improving my knowledge base, and most of all, sharing 
 
 #### University of Manchester (Sept. 2008 – June 2009)
 
-- IT Management for Business
+- 1st year of IT Management for Business BSc
 - Intro to Computer Science, Human Computer Interaction, Database Management
 
 #### King's School Oxford, UK (Sep 2007 - Jun 2008)
 - Mathematics, Data and Statistics, Physics, Geography, 75% average
-
 
 ## Experience
 
