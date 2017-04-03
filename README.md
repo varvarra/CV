@@ -2,17 +2,17 @@
 
 [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Portfolio](#portfolio)
 
-I'm a **full-stack junior software developer** with experience in Ruby, JavaScript, Rails, Sinatra, Node.js, SQL, NoSQL, MVC, TDD and OOD.
+I'm a **full-stack junior software developer** who worked in the field of children's education and international development before embarking on a coding journey.
 
-I can offer *integrity, team devotion, a desire to constantly learn and improve, and a positive, flexible can-do attitude* from day one.
+I can offer *integrity, team devotion, a desire to constantly learn and improve, and a positive, flexible can-do attitude* from day one. I also widely use and value **OOP and TDD** as my main coding practices and would be ready and willing to grow in these and other best techniques.
 
-I'm excited to work in a challenging and open environment on engaging projects with like-minded life-loving people :smiley:
+I'm excited to work in a challenging and vibrant environment on engaging projects with variety of new technologies in a company of like-minded life-loving individuals :smiley:
 
 ## Portfolio
 
 |Name |Description|Technology|
 | ---	| ---	| ---	|
-|[Developer's Dictionary](https://github.com/KatHicks/developers-dictionary)|A fun and engaging definitions resource for software developers. [Here](http://www.developers-dictionary.co.uk) is a link to the project|Node, Express, MongoDB, JavaScript, jQuery, SVG, Mocha, Chai, Zombie, CSS, Bootstrap, Heroku|
+|[Developer's Dictionary](https://github.com/KatHicks/developers-dictionary)|A fun and engaging definitions resource for software developers. [Here](http://www.developers-dictionary.co.uk) is a link to the project!|Node, Express, MongoDB, JavaScript, jQuery, SVG, Mocha, Chai, Zombie, CSS, Bootstrap, Heroku|
 |[Fix City](https://github.com/KatHicks/fix-city)|A web application that enables members of the public to report civil issues to their local Council. You can view this project at [fix-city.herokuapp.com](https://fix-city.herokuapp.com/)|Ruby, Rails, PostgreSQL, Google Maps Javascript API, RSpec, Capybara, Sass & Bootstrap|
 |[Notes App](https://github.com/rkclark/notes-app-challenge)|A Single Page App built in pure JS with no testing libraries allowed|JavaScript, Node|  
 
@@ -53,18 +53,17 @@ I'm excited to work in a challenging and open environment on engaging projects w
 #### Institute of Education, UCL (Sept. 2012 - Sept. 2013)
 
 - MA in Educational Planning, Economics, and International Development
-- Fieldwork Organisation and Qualitative Data Collection for the final dissertation on the importance and the use of IT (access to the Web Resources) in primary/secondary schools.
-- Developed an interest about Educational Technology during that year.
+- Fieldwork Organisation and Qualitative Data Collection for the final **dissertation on the importance and the use of IT** (access to the Web Resources) in primary/secondary schools.
 
 #### Manchester Business School, University of Manchester (Sept. 2008 – June 2012)                                             	       	
 - BA in International Business, Finance, and Economics  
 
 #### Nanyang Technological University, Singapore	(Jan. 2011 – May 2011) *Semester Exchange Program*			 	        
-- Experienced a very different learning and cultural environment, and travelled a lot in the region with people from all over the world.
+- Experienced a different learning and cultural environment, and travelled a lot in the region with people from all over the world.
 - Led a group project related to Creative Marketing Strategies for Societal Problems
 
 #### University of Manchester (Sept. 2008 – June 2009)
-- 1st year of IT Management for Business BSc
+- 1st year of **IT Management for Business BSc**
 - Intro to Computer Science, Human Computer Interaction, Database Management
 
 #### King's School Oxford, UK (Sep 2007 - Jun 2008)
