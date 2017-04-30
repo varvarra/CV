@@ -15,7 +15,7 @@ I'm eager to work in a challenging and vibrant environment on engaging projects 
 |[Developer's Dictionary](https://github.com/KatHicks/developers-dictionary)|A fun and engaging definitions resource for software developers. [Here](http://www.developers-dictionary.co.uk) is a link to the project!|Node, Express, MongoDB, JavaScript, jQuery, SVG, Mocha, Chai, Zombie, CSS, Bootstrap|
 |[Fix City](https://github.com/KatHicks/fix-city)|A web application that enables members of the public to report civil issues to their local Council. You can view this project at [fix-city.herokuapp.com](https://fix-city.herokuapp.com/)|Ruby, Rails, PostgreSQL, Google Maps Javascript API, RSpec, Capybara, Sass & Bootstrap|
 |[Notes App](https://github.com/rkclark/notes-app-challenge)|A Single Page App built in pure JS with no testing libraries allowed|JavaScript, Node|
-|[Enjoy-Instagram](https://github.com/varvarra/instagram-challenge)|Instagram clone - individual weekend challenge at Makers Academy |Ruby, Rails, PostgreSQL, RSpec, Bootstrap, AWS S3 Bucket|   
+|[Enjoy-Instagram](https://github.com/varvarra/instagram-challenge)|Instagram clone - individual weekend challenge at Makers Academy. Follow think [link](https://enjoy-instagram.herokuapp.com/) to register and post your pictures :) |Ruby, Rails, PostgreSQL, RSpec, Bootstrap, AWS S3 Bucket|   
 
 
 ### Skills
