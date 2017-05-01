@@ -4,7 +4,7 @@
 
 I'm a **full-stack junior software developer** who worked in the field of children's education and international development before embarking on a new and exciting coding journey.
 
-I can offer *integrity, a desire to constantly learn and improve, creative approach and a positive, flexible can-do attitude* from day one. I also widely use and value **OOP and TDD** as my main coding practices and would be ready and willing to grow in these and other best techniques.
+I can offer *integrity, a desire to constantly learn and improve, creative approach and a positive, flexible can-do attitude* from day one. I have a solid understanding of object-oriented design and application architecture. **OOP and TDD** are my main coding practices that I'm willing to further develop in the workplace.
 
 I'm eager to work in a challenging and vibrant environment on engaging projects with variety of new technologies in a company of like-minded life-loving individuals :smiley:
 
@@ -75,8 +75,6 @@ I'm eager to work in a challenging and vibrant environment on engaging projects 
 **Indybo, Educational Robotics Start Up, London** (March – June 2015) *Product and Community Management Intern*
 
 **London International Development Centre (LIDC), London** (Oct. 2014 – Dec. 2014) *Communications Intern and Database Management Assistant*
-
-**Peace One Day, London** (Nov. 2013 – Jan. 2014) *Global Education Intern*
 
 ### Interests
 
