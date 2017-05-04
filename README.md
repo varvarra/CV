@@ -4,7 +4,7 @@
 
 I'm a **full-stack junior software developer** with a background in children's education and international development. I've become excited about the possibilities of programming one day and decided I should be part of the developers community. This became possible with the help of Makers Academy, which ingrained in me all of the best coding practices.
 
-Now, as a develop I can offer *strong team integrity, a desire to constantly learn and improve, creative approach and a positive, flexible can-do attitude* from day one. I enjoy writing **clean code and OOP**, and I'm very willing to further develop best programming techniques in the workplace.
+Now, as a developer, I can offer *strong team integrity, a desire to constantly learn and improve, creative approach and a positive, flexible can-do attitude* from day one. I enjoy writing **clean code and OOP**, and I'm very willing to further develop best programming techniques in the workplace.
 
 I'm eager to work in a challenging and vibrant environment on engaging projects with variety of new technologies in a company of like-minded life-loving individuals :smiley:
 
