@@ -2,9 +2,9 @@
 
 [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Portfolio](#portfolio)
 
-I'm a **full-stack junior software developer** who worked in the field of children's education and international development before embarking on a new and exciting coding journey.
+I'm a **full-stack junior software developer** with a background in children's education and international development before embarking on a new and exciting coding journey.
 
-I can offer *integrity, a desire to constantly learn and improve, creative approach and a positive, flexible can-do attitude* from day one. I have a solid understanding of object-oriented design and application architecture. **OOP and TDD** are my main coding practices that I'm willing to further develop in the workplace.
+As a develop I can offer *integrity, a desire to constantly learn and improve, creative approach and a positive, flexible can-do attitude* from day one. I enjoy writing **clean code and OOP**, and I'm willing to further develop best programming techniques in the workplace.
 
 I'm eager to work in a challenging and vibrant environment on engaging projects with variety of new technologies in a company of like-minded life-loving individuals :smiley:
 
@@ -28,13 +28,14 @@ I'm eager to work in a challenging and vibrant environment on engaging projects 
 - I worked on Marketing Analysis for an innovative product in the field of educational robotics. I had to pick up a lot of skills to tackle various issues, taking my own **initiative** to produce a report with growth strategy recommendations for the company.
 - Was praised for my **versatile approach and wide-ranging knowledge** helping the tech team to better understand what to concentrate on.
 
-#### Conscientious self-starter
+#### Conscientious self-starter adaptable to dynamic environments
 - Museum experience creator for children, centered around the "Information Age" and "Space" themes of the Science Museum. Received a lot of **positive feedback** and further event requests. I was **taking a risk**, which was worth every minute of it as it was done with conviction.
 - Learning a completely **new technology stack like Node, MongoDB, Express** in just a week for my final project was challenging but very exciting.
 
 #### Adaptable to dynamic and fast-paced environments
-- Quickly and productively adjusted my skill-set to succeed at Makers Academy.
+- Quickly and productively adjusted my skill-set to succeed at Makers Academy. Learning completely new technologies such as Node, MongoDB, Express in just a week for my final project was challenging and very exciting.
 - Experienced an early-stage startup environment working at Indybo, requiring a lot of **flexibility** and an entrepreneurial approach.
+- Experienced an early-stage start-up environment working at Indybo, requiring a lot of flexibility and an entrepreneurial approach.
 
 #### Other Skills
 - Foreign languages: Russian (Native), French (Post-Intermediate),  Spanish and Portuguese (Basic) 	
